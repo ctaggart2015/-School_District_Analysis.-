@@ -53,8 +53,10 @@ Ajusted Analysis:
 ### * Scores by school size
 #### Thomas high school is ranked as a medium sized school, it is barely noticable.
 ### * Scores by school type
-#### 
-
+#### Thomas High school is a charter school without the ninth graders it decreases a tiny bit.
 ## Summary: 
 ### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-#### 
+#### 1. The Thomas High school ranking it went from second place to eighth place.
+#### 2. Replaced the ninth grade data with "NaN" because they tampered with their scores.
+#### 3. The overall passing of Thomas High school changed decreased by 65.17 to 64.9.
+#### 4. The school math and reading average and passing percentages decreased in math by 74.98 to 74.8 and reading by 85.81 to 85.7.
